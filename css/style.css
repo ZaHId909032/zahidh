@@ -1,0 +1,416 @@
+.hedimage{
+
+    width: 100%;
+    height: 800px;
+    background-image:url(../media/heder-image.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+
+}
+
+
+
+.navigation{
+  
+    margin-left: 30%;
+    margin-top: 100px;
+    margin-right: 20%;
+}
+
+
+
+#navbarSupportedContent ul li a{
+    
+    color:white;
+    font-size: 20px;
+    text-align: right;
+    padding: 2px 20px;
+    
+
+}
+
+.Navigation_hed{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-family: 'Michroma', sans-serif;
+
+   font-weight: bold;
+    font-size: 80px;
+    color: white;
+}
+
+.horijental_line{
+    width: 400px;
+    height: 5px;
+    background-color: white;
+    margin: auto;
+}
+
+.title{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+
+/* firs step complete  */
+
+
+
+
+.About{
+    text-align: center;
+    margin:auto;
+    
+    
+}
+
+#About_button{
+    border: 3px solid;
+    font-size: 25px;
+   
+
+    padding: 5px 30%;
+}
+
+.fa-brands {
+    font-size: 50px;
+    padding: 0px 10px;
+   
+}
+
+.Skill_image{
+    height: auto;
+    width: 100%;
+    background-image: url(../media/skill.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.skill_hed{
+    text-align: center;
+    color: white;
+}
+
+.circle_one{
+    height: 220px;
+    width: 200px;
+    /* border-radius: 100px; */
+  
+
+    
+    border: 4px solid white;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    line-height: 190px;
+    
+}
+
+.citext{
+    font-size: 25px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+.service{
+    height: auto;
+    width: auto;
+    text-align: center;
+    
+}
+
+
+.textserv{
+   
+
+    width: 100%;
+    height: 200px;
+    color: black;
+  
+
+}
+.pro{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.servertext{
+
+    margin-top:100px;
+    font-size: 50px;
+    text-align: center;
+    color:#545454;
+
+}
+
+.logo{
+    width: 100%;
+    height: 300px;
+    background-color: red;
+}
+
+.serverpra{
+     color: rgb(17, 16, 16);
+     margin-top:20px;
+    margin-left: 150px;
+    margin-right: 160px;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.conone{
+    height: 120px;
+    width: 120px;
+    border: 4px solid #ee8b56;
+    border-radius: 100px;
+    margin-top: 60px;
+    margin-left: 36%;
+    margin-bottom: 30px;
+
+}
+
+.fa-paintbrush{
+    
+    margin-top: 25px ;
+    
+    color: #f68e56;
+    font-size: 60px;
+    text-align: center;
+}
+
+.fa-camera{
+    margin-top: 25px ;
+    margin-left: px;
+    color: #f68e56;
+    font-size: 60px;
+    text-align: center;
+
+
+}
+.fa-rectangle-list{
+    margin-top: 25px ;
+    margin-left: px;
+    color: #f68e56;
+    font-size: 60px;
+    text-align: center;
+
+}
+
+
+.iconone{
+    float: left;
+  
+   
+    height: auto;
+    width: 350px;
+    text-align: center;
+   
+}
+
+
+.icontwo{
+    float: left;
+  
+  
+   
+    height: auto;
+    width: 350px;
+    text-align: center;
+    
+}
+
+.iconthree{
+    float: left;
+  
+   
+    height: auto;
+    width: 350px;
+    text-align: center;
+   
+}
+
+
+
+
+
+.btn{
+    background-color: #f68e56;
+     color: white;
+     
+
+     font-size: 20px;
+}
+
+
+
+.Protfolio{
+    width: 100%;
+    height: auto;
+    background-image: url(../media/protfolio.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+
+.pnav ul li a{
+    color: white;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+.BLOG{
+
+    font-size: 60px;
+    text-align: center;
+    width: 100%;
+    height: 80px;
+    margin-top: 82px;
+}
+
+.blogone{
+   margin: auto;
+
+   
+    
+    height: 700px;
+   
+}
+
+.blogtwo{
+margin: auto;
+    height: 700px;
+}
+
+
+
+.butto{
+    border: none;
+  margin: auto;
+    display: inline-block;
+    
+    font-size: 25px;
+   
+    padding:5px 30% 5px 30% ;
+    background-color: #f68e56;
+    color: white;
+    
+
+    
+
+}
+.buttonend{
+    width: 90%;
+    border: none;
+   margin: auto;
+
+    border:3px solid #f68e56;
+    color: #f68e56;
+    padding: 4px 225px 4px 225px;
+
+    font-size: 20px;
+
+}
+
+
+
+
+.textcontact{
+    text-align: center;
+
+}
+.content{
+    background-image: url(../media/contactbg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    color: white;
+}
+
+
+.inp{
+  
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 15px 40px;
+    padding-right: 250px;
+    border-radius: 10px;
+}
+
+
+.fa-house{
+    font-size: 30px;
+    display: inline-block;
+}
+.ress{
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.inp::placeholder {
+    color: rgb(253, 253, 253);
+    opacity: 1; /* Firefox */
+  }
+  
+  .inp::-ms-input-placeholder { /* Edge 12 -18 */
+    color: rgb(255, 254, 254);
+  }
+
+
+.map{
+    height: 400px;
+    width: 100%;
+}
+
+.last{
+    margin-top: 10px;
+    font-size: 20px;
+    
+    width: 100%;
+    height: 40px;
+    color: white;
+    background-color: #ee8b57;
+    text-align: center;
+}
+
+.conon{
+    
+    height: 70px;
+    width: 70px;
+    border: 4px solid #e2dcd9;
+    border-radius: 100px;
+    margin-top: 60px;
+    
+    margin-bottom: 30px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.upe{
+    display: inline;
+
+}
+
+
+
